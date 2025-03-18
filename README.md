@@ -1,1 +1,7 @@
 # Caso_Practico_PBi
+
+Para el ejercicio se nos solicitó que desarrollaramos un dashboard que nos de información general sobre el resumen de ventas anuales de una distribuidora departamental. 
+
+Para la página de resumen de ventas se decidió presentar los resumenes de porcentajes de ventas por país, representado por un grafico de pastel. Se agregó un histograma que nos muestra las ventas totales por categorías en cada país reportado, y por último se agregó una línea temporal donde se detallan las ganancias totales por mes. Los filtros elegidos fueron por país, por categoría y por año. Las tarjetas incluidas en la página nos dan un resumen de las ganancias totales hechas en el periodo de tiempo seleccionado (editable mediante los registros) y el número de ventas hechas en ese pediodo, junto a las ganancias totales de este periodo. Esto se consideró para poder hacer rotaciones de inventarios, análisis de mercados y predicción de ganancias a partir de los registros presentados en la hoja de resumen. 
+
+Para la segunda página del reporte se optó por la creación de una tabla de resumen que nos muestre las ventas totales de cada producto, la categoría, el país donde se vendió, el año y el mes. Estas opciones se eligieron porque se considera que esto nos permitirá conocer las tendencias de venta de los productos de acuerdo a las condiciones del mercado o las necesidades que los clientes puedan tener con respecto al cambio de estación o por los movimientos que puedan surgir en los mercados de valores. 
